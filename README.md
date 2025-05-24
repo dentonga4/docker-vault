@@ -1,6 +1,6 @@
 ### Docker Vault ###
 
-This is a repository which allows for the simple install of hashicorp vault within Docker on your local machine for testing purposes. 
+This is a repository which provides a simple script for the installation of hashicorp vault within Docker on your local machine for testing purposes. 
 
 #### Installation Steps ####
 
